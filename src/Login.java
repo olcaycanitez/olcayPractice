@@ -4,7 +4,6 @@ public class Login {
 
         // I added this line from gitHub
         // I will see this line in Intellij
-
         // I made changes
 
     }
